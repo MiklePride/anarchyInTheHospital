@@ -175,6 +175,7 @@ static class UserUtils
                 Console.WriteLine($"Не правильный ввод данных!!!  Повторите попытку");
             }
         }
+
         return userNumber;
     }
 }
